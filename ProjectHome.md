@@ -1,0 +1,1 @@
+Simple tool to embed Word 2007 bibliographies "Sources.xml" in an openxml docx document.
